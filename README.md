@@ -1,1 +1,3 @@
 # 1010-connect4-final-project
+
+Open the connect4 folder and then run python3 con4.py. Once the window opens, click on one of the yellow buttons at the bottom of the window in order to select which column to place your circle. Alternate between yourself and another opponent selecting columns while attempting to get 4 of your own dots in a row. The game will end when one player wins or every column is full. If at any point in time you would like to restart the game, click on the clear board button in the top right. If you would like to exit the game, click the exit button in the top left and the window will close. 
